@@ -1,10 +1,10 @@
 # A3-PROJECTCRUD
 
-- Contexto Geral da Aplicação
+- Contexto Geral da Aplicação.
   
 Esta aplicação é uma API para gerenciamento de produtos, construída utilizando ASP.NET Core e Entity Framework Core. A API permite realizar operações CRUD (Create, Read, Update, Delete) em produtos, e está organizada em várias camadas, cada uma com responsabilidades distintas. As principais classes e arquivos da aplicação são responsáveis por definir modelos de dados, configurar serviços, gerenciar a interação com o banco de dados, controlar as requisições HTTP e transferir dados entre diferentes partes da aplicação.
 
-- Resumo das Classes
+- Resumo: Classes, métodos e etc.
   
 1. Products - Models
 Classe: Product
@@ -49,7 +49,7 @@ Name: Nome do produto.
 Description: Descrição do produto.
 Price: Preço do produto.
 
-- Contexto contexto referente aos arquivos
+- Contexto referente aos arquivos.
   
 Models (Product): Define como os dados dos produtos são estruturados e armazenados no banco de dados.
 Services (Program): Configura a aplicação e gerencia serviços essenciais, como conexão ao banco de dados e documentação da API.

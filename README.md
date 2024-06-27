@@ -44,7 +44,7 @@ Pontuacao: Pontuação do competidor na competição.
 Colocacao: Colocação do competidor na competição.
 CompeticaoId: Referência ao ID da competição a que o competidor pertence.
 
-- Resumo
+- Resumo:
 
 Controller (ProductsController): Gerencia as requisições HTTP e implementa a lógica de negócios para operações CRUD em produtos.
 

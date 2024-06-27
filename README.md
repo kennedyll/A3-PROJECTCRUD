@@ -2,7 +2,7 @@
 
 Esta aplicação é uma API para gerenciamento de competições escolares, construída utilizando ASP.NET Core e Entity Framework Core. A API permite realizar operações CRUD (Create, Read, Update, Delete) em competições e competidores, organizando-se em diversas camadas, cada uma com responsabilidades específicas. As principais classes e arquivos da aplicação definem modelos de dados, configuram o contexto do banco de dados, controlam as requisições HTTP e transferem dados entre diferentes partes da aplicação.
 
-- Resumo das Classes
+- Resumo das Classes:
 
 1. Controlador - Controller
 Classe: CompeticoesController e CompetidoresController
